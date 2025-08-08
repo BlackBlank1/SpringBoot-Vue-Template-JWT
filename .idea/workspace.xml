@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99461094-8364-4554-ab1c-5bf1cea5135b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project-backend/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project-backend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project-backend/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project-backend/src/main/java/com/example/MyProjectBackendApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project-backend/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-project-backend/src/test/java/com/example/MyProjectBackendApplicationTests.java" afterDir="false" />
+    <list default="true" id="99461094-8364-4554-ab1c-5bf1cea5135b" name="Changes" comment="项目初始化创建">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-project-backend/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-project-backend/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "last_opened_file_path": "D:/Study/Java/my-project",
@@ -56,6 +50,8 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "D:\\Soft\\IntelliJ IDEA 2023.2.5\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -96,11 +92,27 @@
       <updated>1754631517500</updated>
       <workItem from="1754631518573" duration="696000" />
       <workItem from="1754632233255" duration="177000" />
-      <workItem from="1754632419467" duration="949000" />
+      <workItem from="1754632419467" duration="1592000" />
     </task>
+    <task id="LOCAL-00001" summary="项目初始化创建">
+      <option name="closed" value="true" />
+      <created>1754633707789</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754633707789</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/my-project-backend" />
+    </ignored-roots>
+    <MESSAGE value="项目初始化创建" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目初始化创建" />
   </component>
 </project>
